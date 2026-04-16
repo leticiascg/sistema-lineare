@@ -6,9 +6,9 @@
   "description": "Sistema de gestão de tarefas - Fábrica de Software",
   "author": "Letícia Suelen Carvalho",
   "scripts": {
-    "dev": "vite vite-project",
-    "build": "vite build vite-project",
-    "preview": "vite preview vite-project"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
